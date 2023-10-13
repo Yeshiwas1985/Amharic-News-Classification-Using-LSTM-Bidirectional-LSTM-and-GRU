@@ -7,8 +7,8 @@
 ####     4. አለምአቀፋዊ ዜና (International News)
 ####     5. መዝናኛ (Entertainment News)
 ####     6. ስፖርት (Sport News)
-# Models Used:
+# <b>Models Used:</b>
 ### 1. LSTM (Long Short Term Memory)
 ### 2. Bidirectional LSTM
 ### 3. Gated Recurrent Unit
-## if you need a dataset contact me using this mail address <a> yeshiwasdagnaw23@gmail.com </a>
+## <b> N.B: if you need a dataset contact me using this mail address </b> <a> yeshiwasdagnaw23@gmail.com </a>
