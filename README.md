@@ -11,4 +11,4 @@
 ### 1. LSTM (Long Short Term Memory)
 ### 2. Bidirectional LSTM
 ### 3. Gated Recurrent Unit
-## <b> N.B: if you need a dataset contact me using this mail address </b> <a> yeshiwasdagnaw23@gmail.com </a>
+## <b> N.B: if you need a dataset, contact me using this mail address </b> <a> yeshiwasdagnaw23@gmail.com </a>
