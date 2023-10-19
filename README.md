@@ -23,4 +23,4 @@ Removing the stopwords from the article column using the set Amharic stopwords
 ### 2. Bidirectional LSTM
 ### 3. Gated Recurrent Unit
 ### 4. Word2vec
-## <b> N.B: if you need a dataset, contact me using this mail address </b> <a> yeshiwasdagnaw23@gmail.com </a>
+## <b> N.B: if you need a dataset, contact me using LinkedIn </b> <a>linkedin.com/in/yeshiwas-dagnaw-alemu-961318172 </a>
